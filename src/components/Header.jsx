@@ -14,7 +14,7 @@ const Header = () => {
         <div className="row">
           <div className="col-lg-6 col-12">
             <p style={smallText} className="pt-lg-5 mt-lg-3 px-5 mx-2">
-              Imagine a
+              Imagine a{" "}
               <span
                 style={{
                   fontSize: "2rem",
